@@ -4,7 +4,7 @@
     "captcha_api_key": "fCap",
     "random_username": true,
     "password": "",
-    "invite": "",
+    "invite": "https://discord.gg/RmtsQD9Q",
     "display_title": true,
     "show_errors": true
 }
